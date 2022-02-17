@@ -1,0 +1,6 @@
+l=["apple","orange","grapes","mango"]
+m=["orange","bananna","mango","python"]
+s1=set(l)
+s2=set(m)
+s3=s1.intersection(s2)
+print(s3)
