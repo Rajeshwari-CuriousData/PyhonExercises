@@ -1,2 +1,2 @@
-# PyhonExercises
+# Pyhon Logical codings
 LogicalCodings
